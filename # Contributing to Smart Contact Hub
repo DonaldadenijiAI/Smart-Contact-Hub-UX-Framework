@@ -1,0 +1,32 @@
+Thank you for your interest in contributing!
+
+## Principles
+
+All contributions must align with the [SPIRE Design Philosophy](./spire-design-philosophy.md):
+
+- S: See the gaps
+- P: Prioritize intent
+- I: Integrate channels
+- R: Re-imagine interaction
+- E: Empower users
+
+## How to Contribute
+
+1. **Fork and clone the repo**
+2. **Create a new branch** for your feature or fix
+3. **Describe which SPIRE pillar(s)** your contribution addresses in your PR
+4. **Open a PR** using the provided template
+5. **Engage in code review**
+
+## Issue & Feature Requests
+
+- Use the provided issue templates.
+- For feature requests, explain what gap is being filled and which SPIRE pillars are advanced.
+
+## Code of Conduct
+
+Be respectful, open, and focused on building a truly user-first experience.
+
+---
+
+Happy contributing!
