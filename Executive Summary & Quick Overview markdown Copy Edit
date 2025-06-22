@@ -1,0 +1,33 @@
+# SmartContactHub – A Human-Centric OS UX Framework
+
+> Reimagining mobile communication by unifying calls, messages, and social interactions through a privacy-respecting, CRM-powered contact hub – built natively into the OS.
+
+## 📌 Project Overview
+SmartContactHub is a system-native UX proposal that replaces fragmented communication with a unified relationship management experience. Instead of relying on scattered third-party apps and notification chaos, this concept embeds a contact-first productivity layer directly into the smartphone OS.
+
+## 🔧 Key Features
+- **Unified Call & Message Log** (Phone, WhatsApp, Skype, etc.)
+- **IQ Tab**: Intelligent Notification Filtering by intent
+- **CRM Tab**: Light CRM to track high-value relationships
+- **Microinteractions**: Emojis, reactions, and reminders from the dialer
+- **Contextual Tabs**: Separate views for Recents, Connections, and CRM
+
+## 🎯 Goals
+- Enhance **digital well-being** and reduce app fatigue
+- Increase OS **stickiness and brand loyalty**
+- Provide **intent-driven UX** that respects attention, not exploits it
+- Enable **professional utility** (e.g., freelancers, small business owners)
+
+## 📈 ROI & Strategic Value
+- Increased device retention & upgrade motivation
+- Reduced churn from ecosystem fatigue
+- Opportunity for premium feature layers
+- Marketable differentiation for Android OEMs or forked OS brands
+
+## 📂 Files Included
+- `/docs/whitepaper.md` – Strategic white paper + vision
+- `/docs/case-study.md` – Problem framing + UX walkthrough
+- `/docs/gap-analysis.md` – OS vs App model comparison
+
+## 📜 License
+MIT – open to contributions and further exploration
