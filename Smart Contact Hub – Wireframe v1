@@ -1,0 +1,43 @@
+## Top Navigation
+------------------------------------------------------
+| <Search Icon>             Recents            <Settings Icon> |
+------------------------------------------------------
+
+## Sub-tabs (under header)
+|  All  |  Missed Call  |  IQ  |     (Active: All, blue underline)
+
+## Call Log Section
+------------------------------------------------------
+| <Call/Msg Icon> | Contact Name    | Date/Time | [i] |
+| <WA Call Icon>  | John Doe        | 6/12      | [i] |
+| <Skype Icon>    | Jane Smith      | 6/12      | [i] |
+------------------------------------------------------
+
+## Dial Pad (Bottom)
+-------------------------
+| 1 | 2 | 3 |
+| 4 | 5 | 6 |
+| 7 | 8 | 9 |
+| * | 0 | # |
+-------------------------
+| [Video Call] | Call 1 | Call 2 | [•••] |
+
+## Bottom Navigation Bar
+-------------------------------------
+| Recents (active) | Connections | CRM |
+-------------------------------------
+
+### Connections Tab
+- Search bar (by name, handle, phone)
+- Unified contact list: phone, WhatsApp, LinkedIn, etc.
+- Quick actions: Message | Call | Social | Note | Reminder
+
+### CRM Tab
+- Relationship history/timeline
+- Notes, tags, reminders
+- Status/event sync: See client updates, business posts, etc.
+
+### Notification Panel (Smart)
+- Only from chosen contacts/groups
+- Micro-interactions: like, emoji, reply
+- Tap to jump into app or see post/status
